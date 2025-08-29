@@ -1,0 +1,26 @@
+{
+    "pedido_id": "ORD12345",
+    "cliente_id": "C042",
+    "fecha_pedido": "2023-10-26T10:00:00Z",
+    "estado": "enviado",
+    "direccion_envio": {
+      "calle": "Av. Principal 123",
+      "ciudad": "Ciudad Ejemplo",
+      "codigo_postal": "15001"
+    },
+    "items": [
+      {
+        "producto_id": "P007",
+        "nombre_producto": "Producto Ejemplo A",
+        "cantidad": 2,
+        "precio_unitario": 29.99
+      },
+      {
+        "producto_id": "P034",
+        "nombre_producto": "Producto Ejemplo B",
+        "cantidad": 1,
+        "precio_unitario": 99.50
+      }
+    ],
+    "monto_total": 159.48
+  }
