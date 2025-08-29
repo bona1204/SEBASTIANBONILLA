@@ -1,0 +1,4002 @@
+[
+  {
+    "cliente": "Cliente040",
+    "monto": 61.86
+  },
+  {
+    "cliente": "Cliente049",
+    "monto": 361.56
+  },
+  {
+    "cliente": "Cliente009",
+    "monto": 9.39
+  },
+  {
+    "cliente": "Cliente108",
+    "monto": 58.17
+  },
+  {
+    "cliente": "Cliente197",
+    "monto": 108.2
+  },
+  {
+    "cliente": "Cliente062",
+    "monto": 59.02
+  },
+  {
+    "cliente": "Cliente018",
+    "monto": 37.17
+  },
+  {
+    "cliente": "Cliente153",
+    "monto": 393.74
+  },
+  {
+    "cliente": "Cliente154",
+    "monto": 108.94
+  },
+  {
+    "cliente": "Cliente181",
+    "monto": 227.71
+  },
+  {
+    "cliente": "Cliente012",
+    "monto": 433.77
+  },
+  {
+    "cliente": "Cliente060",
+    "monto": 294.96
+  },
+  {
+    "cliente": "Cliente194",
+    "monto": 257.82
+  },
+  {
+    "cliente": "Cliente129",
+    "monto": 127.0
+  },
+  {
+    "cliente": "Cliente148",
+    "monto": 149.36
+  },
+  {
+    "cliente": "Cliente154",
+    "monto": 485.08
+  },
+  {
+    "cliente": "Cliente083",
+    "monto": 175.91
+  },
+  {
+    "cliente": "Cliente170",
+    "monto": 229.24
+  },
+  {
+    "cliente": "Cliente057",
+    "monto": 151.37
+  },
+  {
+    "cliente": "Cliente071",
+    "monto": 338.78
+  },
+  {
+    "cliente": "Cliente152",
+    "monto": 128.78
+  },
+  {
+    "cliente": "Cliente045",
+    "monto": 20.03
+  },
+  {
+    "cliente": "Cliente174",
+    "monto": 66.32
+  },
+  {
+    "cliente": "Cliente143",
+    "monto": 95.64
+  },
+  {
+    "cliente": "Cliente089",
+    "monto": 126.9
+  },
+  {
+    "cliente": "Cliente172",
+    "monto": 183.46
+  },
+  {
+    "cliente": "Cliente082",
+    "monto": 64.53
+  },
+  {
+    "cliente": "Cliente105",
+    "monto": 91.35
+  },
+  {
+    "cliente": "Cliente077",
+    "monto": 110.84
+  },
+  {
+    "cliente": "Cliente048",
+    "monto": 246.73
+  },
+  {
+    "cliente": "Cliente122",
+    "monto": 26.73
+  },
+  {
+    "cliente": "Cliente058",
+    "monto": 379.11
+  },
+  {
+    "cliente": "Cliente119",
+    "monto": 235.86
+  },
+  {
+    "cliente": "Cliente106",
+    "monto": 394.9
+  },
+  {
+    "cliente": "Cliente136",
+    "monto": 76.98
+  },
+  {
+    "cliente": "Cliente100",
+    "monto": 131.91
+  },
+  {
+    "cliente": "Cliente085",
+    "monto": 256.79
+  },
+  {
+    "cliente": "Cliente021",
+    "monto": 141.15
+  },
+  {
+    "cliente": "Cliente095",
+    "monto": 132.25
+  },
+  {
+    "cliente": "Cliente186",
+    "monto": 100.23
+  },
+  {
+    "cliente": "Cliente014",
+    "monto": 126.46
+  },
+  {
+    "cliente": "Cliente097",
+    "monto": 203.3
+  },
+  {
+    "cliente": "Cliente155",
+    "monto": 468.76
+  },
+  {
+    "cliente": "Cliente049",
+    "monto": 125.63
+  },
+  {
+    "cliente": "Cliente151",
+    "monto": 172.7
+  },
+  {
+    "cliente": "Cliente172",
+    "monto": 103.16
+  },
+  {
+    "cliente": "Cliente056",
+    "monto": 70.0
+  },
+  {
+    "cliente": "Cliente054",
+    "monto": 208.63
+  },
+  {
+    "cliente": "Cliente055",
+    "monto": 105.14
+  },
+  {
+    "cliente": "Cliente190",
+    "monto": 443.33
+  },
+  {
+    "cliente": "Cliente194",
+    "monto": 143.45
+  },
+  {
+    "cliente": "Cliente063",
+    "monto": 34.12
+  },
+  {
+    "cliente": "Cliente155",
+    "monto": 174.09
+  },
+  {
+    "cliente": "Cliente053",
+    "monto": 239.39
+  },
+  {
+    "cliente": "Cliente142",
+    "monto": 75.03
+  },
+  {
+    "cliente": "Cliente199",
+    "monto": 52.72
+  },
+  {
+    "cliente": "Cliente098",
+    "monto": 187.46
+  },
+  {
+    "cliente": "Cliente092",
+    "monto": 35.46
+  },
+  {
+    "cliente": "Cliente067",
+    "monto": 44.17
+  },
+  {
+    "cliente": "Cliente132",
+    "monto": 49.79
+  },
+  {
+    "cliente": "Cliente120",
+    "monto": 12.49
+  },
+  {
+    "cliente": "Cliente185",
+    "monto": 76.27
+  },
+  {
+    "cliente": "Cliente195",
+    "monto": 75.45
+  },
+  {
+    "cliente": "Cliente053",
+    "monto": 332.32
+  },
+  {
+    "cliente": "Cliente106",
+    "monto": 88.06
+  },
+  {
+    "cliente": "Cliente145",
+    "monto": 80.39
+  },
+  {
+    "cliente": "Cliente190",
+    "monto": 571.73
+  },
+  {
+    "cliente": "Cliente067",
+    "monto": 181.87
+  },
+  {
+    "cliente": "Cliente150",
+    "monto": 16.5
+  },
+  {
+    "cliente": "Cliente185",
+    "monto": 80.96
+  },
+  {
+    "cliente": "Cliente040",
+    "monto": 104.78
+  },
+  {
+    "cliente": "Cliente085",
+    "monto": 25.31
+  },
+  {
+    "cliente": "Cliente098",
+    "monto": 133.98
+  },
+  {
+    "cliente": "Cliente141",
+    "monto": 395.89
+  },
+  {
+    "cliente": "Cliente066",
+    "monto": 62.57
+  },
+  {
+    "cliente": "Cliente126",
+    "monto": 40.76
+  },
+  {
+    "cliente": "Cliente165",
+    "monto": 60.9
+  },
+  {
+    "cliente": "Cliente126",
+    "monto": 10.72
+  },
+  {
+    "cliente": "Cliente044",
+    "monto": 123.88
+  },
+  {
+    "cliente": "Cliente044",
+    "monto": 77.56
+  },
+  {
+    "cliente": "Cliente185",
+    "monto": 244.07
+  },
+  {
+    "cliente": "Cliente126",
+    "monto": 463.34
+  },
+  {
+    "cliente": "Cliente165",
+    "monto": 152.56
+  },
+  {
+    "cliente": "Cliente135",
+    "monto": 106.05
+  },
+  {
+    "cliente": "Cliente172",
+    "monto": 139.22
+  },
+  {
+    "cliente": "Cliente002",
+    "monto": 97.93
+  },
+  {
+    "cliente": "Cliente162",
+    "monto": 75.43
+  },
+  {
+    "cliente": "Cliente182",
+    "monto": 162.92
+  },
+  {
+    "cliente": "Cliente003",
+    "monto": 29.45
+  },
+  {
+    "cliente": "Cliente130",
+    "monto": 124.08
+  },
+  {
+    "cliente": "Cliente159",
+    "monto": 43.59
+  },
+  {
+    "cliente": "Cliente158",
+    "monto": 193.47
+  },
+  {
+    "cliente": "Cliente005",
+    "monto": 262.82
+  },
+  {
+    "cliente": "Cliente106",
+    "monto": 101.27
+  },
+  {
+    "cliente": "Cliente005",
+    "monto": 109.73
+  },
+  {
+    "cliente": "Cliente185",
+    "monto": 63.7
+  },
+  {
+    "cliente": "Cliente138",
+    "monto": 220.7
+  },
+  {
+    "cliente": "Cliente005",
+    "monto": 23.52
+  },
+  {
+    "cliente": "Cliente179",
+    "monto": 218.75
+  },
+  {
+    "cliente": "Cliente111",
+    "monto": 494.53
+  },
+  {
+    "cliente": "Cliente028",
+    "monto": 136.02
+  },
+  {
+    "cliente": "Cliente039",
+    "monto": 26.27
+  },
+  {
+    "cliente": "Cliente050",
+    "monto": 237.06
+  },
+  {
+    "cliente": "Cliente135",
+    "monto": 82.75
+  },
+  {
+    "cliente": "Cliente069",
+    "monto": 183.76
+  },
+  {
+    "cliente": "Cliente021",
+    "monto": 236.08
+  },
+  {
+    "cliente": "Cliente118",
+    "monto": 121.79
+  },
+  {
+    "cliente": "Cliente063",
+    "monto": 33.11
+  },
+  {
+    "cliente": "Cliente058",
+    "monto": 149.48
+  },
+  {
+    "cliente": "Cliente021",
+    "monto": 373.28
+  },
+  {
+    "cliente": "Cliente195",
+    "monto": 339.62
+  },
+  {
+    "cliente": "Cliente024",
+    "monto": 283.12
+  },
+  {
+    "cliente": "Cliente098",
+    "monto": 451.76
+  },
+  {
+    "cliente": "Cliente122",
+    "monto": 157.78
+  },
+  {
+    "cliente": "Cliente164",
+    "monto": 49.51
+  },
+  {
+    "cliente": "Cliente180",
+    "monto": 36.3
+  },
+  {
+    "cliente": "Cliente128",
+    "monto": 289.5
+  },
+  {
+    "cliente": "Cliente085",
+    "monto": 335.48
+  },
+  {
+    "cliente": "Cliente011",
+    "monto": 87.29
+  },
+  {
+    "cliente": "Cliente178",
+    "monto": 156.24
+  },
+  {
+    "cliente": "Cliente070",
+    "monto": 87.85
+  },
+  {
+    "cliente": "Cliente020",
+    "monto": 102.75
+  },
+  {
+    "cliente": "Cliente072",
+    "monto": 485.02
+  },
+  {
+    "cliente": "Cliente169",
+    "monto": 89.19
+  },
+  {
+    "cliente": "Cliente046",
+    "monto": 252.43
+  },
+  {
+    "cliente": "Cliente054",
+    "monto": 15.66
+  },
+  {
+    "cliente": "Cliente037",
+    "monto": 437.13
+  },
+  {
+    "cliente": "Cliente102",
+    "monto": 23.46
+  },
+  {
+    "cliente": "Cliente077",
+    "monto": 167.94
+  },
+  {
+    "cliente": "Cliente146",
+    "monto": 117.19
+  },
+  {
+    "cliente": "Cliente174",
+    "monto": 222.52
+  },
+  {
+    "cliente": "Cliente085",
+    "monto": 256.67
+  },
+  {
+    "cliente": "Cliente190",
+    "monto": 142.84
+  },
+  {
+    "cliente": "Cliente177",
+    "monto": 38.46
+  },
+  {
+    "cliente": "Cliente021",
+    "monto": 72.6
+  },
+  {
+    "cliente": "Cliente089",
+    "monto": 71.21
+  },
+  {
+    "cliente": "Cliente026",
+    "monto": 92.48
+  },
+  {
+    "cliente": "Cliente020",
+    "monto": 100.32
+  },
+  {
+    "cliente": "Cliente197",
+    "monto": 306.6
+  },
+  {
+    "cliente": "Cliente102",
+    "monto": 218.1
+  },
+  {
+    "cliente": "Cliente163",
+    "monto": 195.96
+  },
+  {
+    "cliente": "Cliente126",
+    "monto": 267.37
+  },
+  {
+    "cliente": "Cliente142",
+    "monto": 60.04
+  },
+  {
+    "cliente": "Cliente111",
+    "monto": 552.24
+  },
+  {
+    "cliente": "Cliente150",
+    "monto": 8.53
+  },
+  {
+    "cliente": "Cliente098",
+    "monto": 21.3
+  },
+  {
+    "cliente": "Cliente198",
+    "monto": 214.94
+  },
+  {
+    "cliente": "Cliente064",
+    "monto": 109.72
+  },
+  {
+    "cliente": "Cliente022",
+    "monto": 241.01
+  },
+  {
+    "cliente": "Cliente098",
+    "monto": 159.66
+  },
+  {
+    "cliente": "Cliente163",
+    "monto": 155.27
+  },
+  {
+    "cliente": "Cliente100",
+    "monto": 75.55
+  },
+  {
+    "cliente": "Cliente093",
+    "monto": 21.55
+  },
+  {
+    "cliente": "Cliente024",
+    "monto": 44.37
+  },
+  {
+    "cliente": "Cliente079",
+    "monto": 73.05
+  },
+  {
+    "cliente": "Cliente093",
+    "monto": 68.9
+  },
+  {
+    "cliente": "Cliente070",
+    "monto": 12.55
+  },
+  {
+    "cliente": "Cliente034",
+    "monto": 44.5
+  },
+  {
+    "cliente": "Cliente048",
+    "monto": 403.71
+  },
+  {
+    "cliente": "Cliente143",
+    "monto": 205.57
+  },
+  {
+    "cliente": "Cliente132",
+    "monto": 25.8
+  },
+  {
+    "cliente": "Cliente027",
+    "monto": 229.32
+  },
+  {
+    "cliente": "Cliente023",
+    "monto": 35.52
+  },
+  {
+    "cliente": "Cliente142",
+    "monto": 49.36
+  },
+  {
+    "cliente": "Cliente153",
+    "monto": 246.51
+  },
+  {
+    "cliente": "Cliente099",
+    "monto": 46.55
+  },
+  {
+    "cliente": "Cliente075",
+    "monto": 26.83
+  },
+  {
+    "cliente": "Cliente100",
+    "monto": 52.3
+  },
+  {
+    "cliente": "Cliente022",
+    "monto": 174.97
+  },
+  {
+    "cliente": "Cliente144",
+    "monto": 254.35
+  },
+  {
+    "cliente": "Cliente134",
+    "monto": 7.01
+  },
+  {
+    "cliente": "Cliente176",
+    "monto": 120.07
+  },
+  {
+    "cliente": "Cliente044",
+    "monto": 77.82
+  },
+  {
+    "cliente": "Cliente069",
+    "monto": 103.29
+  },
+  {
+    "cliente": "Cliente127",
+    "monto": 164.08
+  },
+  {
+    "cliente": "Cliente112",
+    "monto": 129.61
+  },
+  {
+    "cliente": "Cliente108",
+    "monto": 154.69
+  },
+  {
+    "cliente": "Cliente124",
+    "monto": 23.6
+  },
+  {
+    "cliente": "Cliente093",
+    "monto": 41.95
+  },
+  {
+    "cliente": "Cliente064",
+    "monto": 40.41
+  },
+  {
+    "cliente": "Cliente161",
+    "monto": 24.4
+  },
+  {
+    "cliente": "Cliente153",
+    "monto": 58.68
+  },
+  {
+    "cliente": "Cliente051",
+    "monto": 113.88
+  },
+  {
+    "cliente": "Cliente078",
+    "monto": 308.16
+  },
+  {
+    "cliente": "Cliente159",
+    "monto": 123.75
+  },
+  {
+    "cliente": "Cliente085",
+    "monto": 155.81
+  },
+  {
+    "cliente": "Cliente086",
+    "monto": 598.82
+  },
+  {
+    "cliente": "Cliente035",
+    "monto": 181.94
+  },
+  {
+    "cliente": "Cliente155",
+    "monto": 69.51
+  },
+  {
+    "cliente": "Cliente052",
+    "monto": 73.16
+  },
+  {
+    "cliente": "Cliente081",
+    "monto": 367.87
+  },
+  {
+    "cliente": "Cliente075",
+    "monto": 59.93
+  },
+  {
+    "cliente": "Cliente178",
+    "monto": 35.74
+  },
+  {
+    "cliente": "Cliente126",
+    "monto": 42.72
+  },
+  {
+    "cliente": "Cliente063",
+    "monto": 274.42
+  },
+  {
+    "cliente": "Cliente101",
+    "monto": 371.24
+  },
+  {
+    "cliente": "Cliente052",
+    "monto": 341.4
+  },
+  {
+    "cliente": "Cliente047",
+    "monto": 101.49
+  },
+  {
+    "cliente": "Cliente197",
+    "monto": 103.72
+  },
+  {
+    "cliente": "Cliente007",
+    "monto": 165.53
+  },
+  {
+    "cliente": "Cliente119",
+    "monto": 162.81
+  },
+  {
+    "cliente": "Cliente054",
+    "monto": 247.14
+  },
+  {
+    "cliente": "Cliente178",
+    "monto": 51.92
+  },
+  {
+    "cliente": "Cliente173",
+    "monto": 46.75
+  },
+  {
+    "cliente": "Cliente036",
+    "monto": 54.41
+  },
+  {
+    "cliente": "Cliente078",
+    "monto": 27.93
+  },
+  {
+    "cliente": "Cliente065",
+    "monto": 9.4
+  },
+  {
+    "cliente": "Cliente040",
+    "monto": 215.16
+  },
+  {
+    "cliente": "Cliente097",
+    "monto": 69.25
+  },
+  {
+    "cliente": "Cliente115",
+    "monto": 77.5
+  },
+  {
+    "cliente": "Cliente123",
+    "monto": 29.86
+  },
+  {
+    "cliente": "Cliente103",
+    "monto": 107.78
+  },
+  {
+    "cliente": "Cliente130",
+    "monto": 180.73
+  },
+  {
+    "cliente": "Cliente010",
+    "monto": 234.15
+  },
+  {
+    "cliente": "Cliente153",
+    "monto": 39.99
+  },
+  {
+    "cliente": "Cliente022",
+    "monto": 12.43
+  },
+  {
+    "cliente": "Cliente197",
+    "monto": 117.69
+  },
+  {
+    "cliente": "Cliente171",
+    "monto": 52.83
+  },
+  {
+    "cliente": "Cliente166",
+    "monto": 205.12
+  },
+  {
+    "cliente": "Cliente145",
+    "monto": 269.28
+  },
+  {
+    "cliente": "Cliente166",
+    "monto": 93.31
+  },
+  {
+    "cliente": "Cliente193",
+    "monto": 207.03
+  },
+  {
+    "cliente": "Cliente003",
+    "monto": 109.85
+  },
+  {
+    "cliente": "Cliente057",
+    "monto": 13.44
+  },
+  {
+    "cliente": "Cliente192",
+    "monto": 446.49
+  },
+  {
+    "cliente": "Cliente149",
+    "monto": 32.89
+  },
+  {
+    "cliente": "Cliente148",
+    "monto": 127.96
+  },
+  {
+    "cliente": "Cliente096",
+    "monto": 204.94
+  },
+  {
+    "cliente": "Cliente119",
+    "monto": 27.12
+  },
+  {
+    "cliente": "Cliente174",
+    "monto": 52.23
+  },
+  {
+    "cliente": "Cliente129",
+    "monto": 323.83
+  },
+  {
+    "cliente": "Cliente007",
+    "monto": 79.25
+  },
+  {
+    "cliente": "Cliente027",
+    "monto": 52.83
+  },
+  {
+    "cliente": "Cliente107",
+    "monto": 154.76
+  },
+  {
+    "cliente": "Cliente187",
+    "monto": 184.09
+  },
+  {
+    "cliente": "Cliente090",
+    "monto": 71.46
+  },
+  {
+    "cliente": "Cliente088",
+    "monto": 10.02
+  },
+  {
+    "cliente": "Cliente053",
+    "monto": 222.18
+  },
+  {
+    "cliente": "Cliente124",
+    "monto": 180.54
+  },
+  {
+    "cliente": "Cliente025",
+    "monto": 142.34
+  },
+  {
+    "cliente": "Cliente185",
+    "monto": 37.23
+  },
+  {
+    "cliente": "Cliente116",
+    "monto": 176.55
+  },
+  {
+    "cliente": "Cliente077",
+    "monto": 166.32
+  },
+  {
+    "cliente": "Cliente030",
+    "monto": 198.29
+  },
+  {
+    "cliente": "Cliente028",
+    "monto": 223.68
+  },
+  {
+    "cliente": "Cliente190",
+    "monto": 26.02
+  },
+  {
+    "cliente": "Cliente133",
+    "monto": 119.46
+  },
+  {
+    "cliente": "Cliente142",
+    "monto": 127.88
+  },
+  {
+    "cliente": "Cliente110",
+    "monto": 21.17
+  },
+  {
+    "cliente": "Cliente060",
+    "monto": 102.39
+  },
+  {
+    "cliente": "Cliente162",
+    "monto": 240.79
+  },
+  {
+    "cliente": "Cliente048",
+    "monto": 37.28
+  },
+  {
+    "cliente": "Cliente111",
+    "monto": 631.19
+  },
+  {
+    "cliente": "Cliente158",
+    "monto": 207.27
+  },
+  {
+    "cliente": "Cliente116",
+    "monto": 16.45
+  },
+  {
+    "cliente": "Cliente110",
+    "monto": 61.66
+  },
+  {
+    "cliente": "Cliente002",
+    "monto": 154.29
+  },
+  {
+    "cliente": "Cliente055",
+    "monto": 174.84
+  },
+  {
+    "cliente": "Cliente193",
+    "monto": 173.15
+  },
+  {
+    "cliente": "Cliente017",
+    "monto": 39.61
+  },
+  {
+    "cliente": "Cliente027",
+    "monto": 355.93
+  },
+  {
+    "cliente": "Cliente094",
+    "monto": 140.87
+  },
+  {
+    "cliente": "Cliente051",
+    "monto": 32.2
+  },
+  {
+    "cliente": "Cliente030",
+    "monto": 38.16
+  },
+  {
+    "cliente": "Cliente172",
+    "monto": 22.89
+  },
+  {
+    "cliente": "Cliente136",
+    "monto": 38.71
+  },
+  {
+    "cliente": "Cliente081",
+    "monto": 210.24
+  },
+  {
+    "cliente": "Cliente157",
+    "monto": 304.46
+  },
+  {
+    "cliente": "Cliente030",
+    "monto": 115.27
+  },
+  {
+    "cliente": "Cliente118",
+    "monto": 563.47
+  },
+  {
+    "cliente": "Cliente181",
+    "monto": 96.74
+  },
+  {
+    "cliente": "Cliente152",
+    "monto": 23.49
+  },
+  {
+    "cliente": "Cliente173",
+    "monto": 253.95
+  },
+  {
+    "cliente": "Cliente062",
+    "monto": 38.44
+  },
+  {
+    "cliente": "Cliente030",
+    "monto": 202.64
+  },
+  {
+    "cliente": "Cliente037",
+    "monto": 11.85
+  },
+  {
+    "cliente": "Cliente100",
+    "monto": 245.04
+  },
+  {
+    "cliente": "Cliente036",
+    "monto": 38.43
+  },
+  {
+    "cliente": "Cliente099",
+    "monto": 62.67
+  },
+  {
+    "cliente": "Cliente048",
+    "monto": 51.5
+  },
+  {
+    "cliente": "Cliente163",
+    "monto": 373.37
+  },
+  {
+    "cliente": "Cliente178",
+    "monto": 62.01
+  },
+  {
+    "cliente": "Cliente045",
+    "monto": 306.06
+  },
+  {
+    "cliente": "Cliente074",
+    "monto": 519.79
+  },
+  {
+    "cliente": "Cliente081",
+    "monto": 138.31
+  },
+  {
+    "cliente": "Cliente159",
+    "monto": 112.38
+  },
+  {
+    "cliente": "Cliente003",
+    "monto": 25.47
+  },
+  {
+    "cliente": "Cliente035",
+    "monto": 148.3
+  },
+  {
+    "cliente": "Cliente144",
+    "monto": 35.89
+  },
+  {
+    "cliente": "Cliente168",
+    "monto": 23.52
+  },
+  {
+    "cliente": "Cliente105",
+    "monto": 210.21
+  },
+  {
+    "cliente": "Cliente126",
+    "monto": 26.77
+  },
+  {
+    "cliente": "Cliente182",
+    "monto": 297.96
+  },
+  {
+    "cliente": "Cliente126",
+    "monto": 7.29
+  },
+  {
+    "cliente": "Cliente022",
+    "monto": 82.65
+  },
+  {
+    "cliente": "Cliente008",
+    "monto": 66.91
+  },
+  {
+    "cliente": "Cliente057",
+    "monto": 200.6
+  },
+  {
+    "cliente": "Cliente071",
+    "monto": 24.43
+  },
+  {
+    "cliente": "Cliente138",
+    "monto": 74.79
+  },
+  {
+    "cliente": "Cliente200",
+    "monto": 9.54
+  },
+  {
+    "cliente": "Cliente145",
+    "monto": 118.14
+  },
+  {
+    "cliente": "Cliente197",
+    "monto": 219.74
+  },
+  {
+    "cliente": "Cliente131",
+    "monto": 259.68
+  },
+  {
+    "cliente": "Cliente030",
+    "monto": 145.64
+  },
+  {
+    "cliente": "Cliente140",
+    "monto": 46.28
+  },
+  {
+    "cliente": "Cliente139",
+    "monto": 288.51
+  },
+  {
+    "cliente": "Cliente195",
+    "monto": 43.91
+  },
+  {
+    "cliente": "Cliente113",
+    "monto": 216.28
+  },
+  {
+    "cliente": "Cliente056",
+    "monto": 126.91
+  },
+  {
+    "cliente": "Cliente027",
+    "monto": 249.57
+  },
+  {
+    "cliente": "Cliente064",
+    "monto": 39.86
+  },
+  {
+    "cliente": "Cliente009",
+    "monto": 175.78
+  },
+  {
+    "cliente": "Cliente090",
+    "monto": 24.06
+  },
+  {
+    "cliente": "Cliente113",
+    "monto": 150.58
+  },
+  {
+    "cliente": "Cliente061",
+    "monto": 122.77
+  },
+  {
+    "cliente": "Cliente151",
+    "monto": 108.93
+  },
+  {
+    "cliente": "Cliente182",
+    "monto": 157.16
+  },
+  {
+    "cliente": "Cliente110",
+    "monto": 127.51
+  },
+  {
+    "cliente": "Cliente036",
+    "monto": 56.68
+  },
+  {
+    "cliente": "Cliente053",
+    "monto": 70.8
+  },
+  {
+    "cliente": "Cliente146",
+    "monto": 41.12
+  },
+  {
+    "cliente": "Cliente137",
+    "monto": 60.93
+  },
+  {
+    "cliente": "Cliente153",
+    "monto": 137.46
+  },
+  {
+    "cliente": "Cliente083",
+    "monto": 156.25
+  },
+  {
+    "cliente": "Cliente075",
+    "monto": 269.14
+  },
+  {
+    "cliente": "Cliente132",
+    "monto": 112.41
+  },
+  {
+    "cliente": "Cliente025",
+    "monto": 217.85
+  },
+  {
+    "cliente": "Cliente106",
+    "monto": 135.89
+  },
+  {
+    "cliente": "Cliente168",
+    "monto": 213.26
+  },
+  {
+    "cliente": "Cliente180",
+    "monto": 76.11
+  },
+  {
+    "cliente": "Cliente064",
+    "monto": 275.39
+  },
+  {
+    "cliente": "Cliente183",
+    "monto": 244.03
+  },
+  {
+    "cliente": "Cliente064",
+    "monto": 334.26
+  },
+  {
+    "cliente": "Cliente101",
+    "monto": 95.71
+  },
+  {
+    "cliente": "Cliente037",
+    "monto": 157.62
+  },
+  {
+    "cliente": "Cliente069",
+    "monto": 17.9
+  },
+  {
+    "cliente": "Cliente107",
+    "monto": 60.06
+  },
+  {
+    "cliente": "Cliente116",
+    "monto": 23.51
+  },
+  {
+    "cliente": "Cliente163",
+    "monto": 27.37
+  },
+  {
+    "cliente": "Cliente024",
+    "monto": 201.98
+  },
+  {
+    "cliente": "Cliente192",
+    "monto": 138.32
+  },
+  {
+    "cliente": "Cliente178",
+    "monto": 101.66
+  },
+  {
+    "cliente": "Cliente117",
+    "monto": 97.52
+  },
+  {
+    "cliente": "Cliente149",
+    "monto": 154.11
+  },
+  {
+    "cliente": "Cliente199",
+    "monto": 38.97
+  },
+  {
+    "cliente": "Cliente024",
+    "monto": 224.04
+  },
+  {
+    "cliente": "Cliente171",
+    "monto": 71.49
+  },
+  {
+    "cliente": "Cliente092",
+    "monto": 65.16
+  },
+  {
+    "cliente": "Cliente137",
+    "monto": 196.61
+  },
+  {
+    "cliente": "Cliente056",
+    "monto": 120.39
+  },
+  {
+    "cliente": "Cliente127",
+    "monto": 129.76
+  },
+  {
+    "cliente": "Cliente083",
+    "monto": 125.54
+  },
+  {
+    "cliente": "Cliente141",
+    "monto": 243.59
+  },
+  {
+    "cliente": "Cliente145",
+    "monto": 24.22
+  },
+  {
+    "cliente": "Cliente088",
+    "monto": 211.32
+  },
+  {
+    "cliente": "Cliente196",
+    "monto": 244.22
+  },
+  {
+    "cliente": "Cliente161",
+    "monto": 21.94
+  },
+  {
+    "cliente": "Cliente005",
+    "monto": 223.03
+  },
+  {
+    "cliente": "Cliente113",
+    "monto": 19.97
+  },
+  {
+    "cliente": "Cliente001",
+    "monto": 545.39
+  },
+  {
+    "cliente": "Cliente177",
+    "monto": 179.98
+  },
+  {
+    "cliente": "Cliente041",
+    "monto": 232.31
+  },
+  {
+    "cliente": "Cliente168",
+    "monto": 45.09
+  },
+  {
+    "cliente": "Cliente065",
+    "monto": 21.48
+  },
+  {
+    "cliente": "Cliente096",
+    "monto": 9.63
+  },
+  {
+    "cliente": "Cliente167",
+    "monto": 106.57
+  },
+  {
+    "cliente": "Cliente102",
+    "monto": 18.22
+  },
+  {
+    "cliente": "Cliente079",
+    "monto": 39.9
+  },
+  {
+    "cliente": "Cliente180",
+    "monto": 113.62
+  },
+  {
+    "cliente": "Cliente110",
+    "monto": 175.59
+  },
+  {
+    "cliente": "Cliente024",
+    "monto": 78.62
+  },
+  {
+    "cliente": "Cliente025",
+    "monto": 90.56
+  },
+  {
+    "cliente": "Cliente055",
+    "monto": 70.61
+  },
+  {
+    "cliente": "Cliente020",
+    "monto": 90.11
+  },
+  {
+    "cliente": "Cliente058",
+    "monto": 212.06
+  },
+  {
+    "cliente": "Cliente175",
+    "monto": 75.76
+  },
+  {
+    "cliente": "Cliente003",
+    "monto": 100.4
+  },
+  {
+    "cliente": "Cliente179",
+    "monto": 246.77
+  },
+  {
+    "cliente": "Cliente109",
+    "monto": 110.06
+  },
+  {
+    "cliente": "Cliente123",
+    "monto": 24.18
+  },
+  {
+    "cliente": "Cliente059",
+    "monto": 169.78
+  },
+  {
+    "cliente": "Cliente023",
+    "monto": 42.57
+  },
+  {
+    "cliente": "Cliente027",
+    "monto": 12.52
+  },
+  {
+    "cliente": "Cliente081",
+    "monto": 95.46
+  },
+  {
+    "cliente": "Cliente077",
+    "monto": 141.85
+  },
+  {
+    "cliente": "Cliente098",
+    "monto": 26.94
+  },
+  {
+    "cliente": "Cliente193",
+    "monto": 140.79
+  },
+  {
+    "cliente": "Cliente165",
+    "monto": 104.01
+  },
+  {
+    "cliente": "Cliente037",
+    "monto": 486.19
+  },
+  {
+    "cliente": "Cliente145",
+    "monto": 50.36
+  },
+  {
+    "cliente": "Cliente157",
+    "monto": 62.51
+  },
+  {
+    "cliente": "Cliente043",
+    "monto": 212.41
+  },
+  {
+    "cliente": "Cliente185",
+    "monto": 84.72
+  },
+  {
+    "cliente": "Cliente161",
+    "monto": 68.65
+  },
+  {
+    "cliente": "Cliente039",
+    "monto": 113.41
+  },
+  {
+    "cliente": "Cliente176",
+    "monto": 72.97
+  },
+  {
+    "cliente": "Cliente056",
+    "monto": 254.62
+  },
+  {
+    "cliente": "Cliente193",
+    "monto": 197.65
+  },
+  {
+    "cliente": "Cliente151",
+    "monto": 41.48
+  },
+  {
+    "cliente": "Cliente099",
+    "monto": 269.26
+  },
+  {
+    "cliente": "Cliente036",
+    "monto": 26.57
+  },
+  {
+    "cliente": "Cliente071",
+    "monto": 134.86
+  },
+  {
+    "cliente": "Cliente142",
+    "monto": 157.5
+  },
+  {
+    "cliente": "Cliente185",
+    "monto": 156.98
+  },
+  {
+    "cliente": "Cliente073",
+    "monto": 61.32
+  },
+  {
+    "cliente": "Cliente007",
+    "monto": 16.83
+  },
+  {
+    "cliente": "Cliente078",
+    "monto": 274.17
+  },
+  {
+    "cliente": "Cliente156",
+    "monto": 11.52
+  },
+  {
+    "cliente": "Cliente049",
+    "monto": 160.6
+  },
+  {
+    "cliente": "Cliente076",
+    "monto": 254.46
+  },
+  {
+    "cliente": "Cliente014",
+    "monto": 197.46
+  },
+  {
+    "cliente": "Cliente029",
+    "monto": 76.76
+  },
+  {
+    "cliente": "Cliente164",
+    "monto": 172.9
+  },
+  {
+    "cliente": "Cliente019",
+    "monto": 487.57
+  },
+  {
+    "cliente": "Cliente093",
+    "monto": 73.47
+  },
+  {
+    "cliente": "Cliente034",
+    "monto": 206.46
+  },
+  {
+    "cliente": "Cliente108",
+    "monto": 44.59
+  },
+  {
+    "cliente": "Cliente140",
+    "monto": 117.78
+  },
+  {
+    "cliente": "Cliente045",
+    "monto": 65.12
+  },
+  {
+    "cliente": "Cliente121",
+    "monto": 54.63
+  },
+  {
+    "cliente": "Cliente019",
+    "monto": 277.25
+  },
+  {
+    "cliente": "Cliente018",
+    "monto": 45.86
+  },
+  {
+    "cliente": "Cliente068",
+    "monto": 313.43
+  },
+  {
+    "cliente": "Cliente016",
+    "monto": 163.36
+  },
+  {
+    "cliente": "Cliente161",
+    "monto": 152.5
+  },
+  {
+    "cliente": "Cliente129",
+    "monto": 52.43
+  },
+  {
+    "cliente": "Cliente109",
+    "monto": 32.89
+  },
+  {
+    "cliente": "Cliente103",
+    "monto": 24.42
+  },
+  {
+    "cliente": "Cliente164",
+    "monto": 237.99
+  },
+  {
+    "cliente": "Cliente138",
+    "monto": 359.84
+  },
+  {
+    "cliente": "Cliente022",
+    "monto": 80.69
+  },
+  {
+    "cliente": "Cliente021",
+    "monto": 24.82
+  },
+  {
+    "cliente": "Cliente053",
+    "monto": 329.94
+  },
+  {
+    "cliente": "Cliente138",
+    "monto": 156.48
+  },
+  {
+    "cliente": "Cliente101",
+    "monto": 32.63
+  },
+  {
+    "cliente": "Cliente163",
+    "monto": 68.61
+  },
+  {
+    "cliente": "Cliente167",
+    "monto": 345.47
+  },
+  {
+    "cliente": "Cliente165",
+    "monto": 94.49
+  },
+  {
+    "cliente": "Cliente112",
+    "monto": 89.18
+  },
+  {
+    "cliente": "Cliente015",
+    "monto": 27.44
+  },
+  {
+    "cliente": "Cliente023",
+    "monto": 172.34
+  },
+  {
+    "cliente": "Cliente117",
+    "monto": 51.92
+  },
+  {
+    "cliente": "Cliente156",
+    "monto": 77.88
+  },
+  {
+    "cliente": "Cliente080",
+    "monto": 9.39
+  },
+  {
+    "cliente": "Cliente190",
+    "monto": 78.19
+  },
+  {
+    "cliente": "Cliente045",
+    "monto": 323.06
+  },
+  {
+    "cliente": "Cliente004",
+    "monto": 80.87
+  },
+  {
+    "cliente": "Cliente036",
+    "monto": 35.63
+  },
+  {
+    "cliente": "Cliente003",
+    "monto": 78.83
+  },
+  {
+    "cliente": "Cliente134",
+    "monto": 296.09
+  },
+  {
+    "cliente": "Cliente043",
+    "monto": 161.81
+  },
+  {
+    "cliente": "Cliente192",
+    "monto": 27.0
+  },
+  {
+    "cliente": "Cliente069",
+    "monto": 139.03
+  },
+  {
+    "cliente": "Cliente198",
+    "monto": 135.17
+  },
+  {
+    "cliente": "Cliente110",
+    "monto": 65.38
+  },
+  {
+    "cliente": "Cliente135",
+    "monto": 215.96
+  },
+  {
+    "cliente": "Cliente183",
+    "monto": 125.11
+  },
+  {
+    "cliente": "Cliente128",
+    "monto": 21.75
+  },
+  {
+    "cliente": "Cliente131",
+    "monto": 94.87
+  },
+  {
+    "cliente": "Cliente015",
+    "monto": 139.44
+  },
+  {
+    "cliente": "Cliente043",
+    "monto": 54.69
+  },
+  {
+    "cliente": "Cliente066",
+    "monto": 25.3
+  },
+  {
+    "cliente": "Cliente027",
+    "monto": 172.05
+  },
+  {
+    "cliente": "Cliente173",
+    "monto": 79.68
+  },
+  {
+    "cliente": "Cliente030",
+    "monto": 123.27
+  },
+  {
+    "cliente": "Cliente131",
+    "monto": 177.69
+  },
+  {
+    "cliente": "Cliente012",
+    "monto": 126.95
+  },
+  {
+    "cliente": "Cliente012",
+    "monto": 143.1
+  },
+  {
+    "cliente": "Cliente094",
+    "monto": 56.69
+  },
+  {
+    "cliente": "Cliente039",
+    "monto": 115.01
+  },
+  {
+    "cliente": "Cliente010",
+    "monto": 350.35
+  },
+  {
+    "cliente": "Cliente190",
+    "monto": 125.93
+  },
+  {
+    "cliente": "Cliente108",
+    "monto": 23.94
+  },
+  {
+    "cliente": "Cliente083",
+    "monto": 127.88
+  },
+  {
+    "cliente": "Cliente185",
+    "monto": 157.27
+  },
+  {
+    "cliente": "Cliente147",
+    "monto": 49.3
+  },
+  {
+    "cliente": "Cliente031",
+    "monto": 12.66
+  },
+  {
+    "cliente": "Cliente173",
+    "monto": 297.49
+  },
+  {
+    "cliente": "Cliente046",
+    "monto": 49.93
+  },
+  {
+    "cliente": "Cliente133",
+    "monto": 232.19
+  },
+  {
+    "cliente": "Cliente120",
+    "monto": 57.45
+  },
+  {
+    "cliente": "Cliente199",
+    "monto": 139.89
+  },
+  {
+    "cliente": "Cliente142",
+    "monto": 57.12
+  },
+  {
+    "cliente": "Cliente095",
+    "monto": 95.27
+  },
+  {
+    "cliente": "Cliente075",
+    "monto": 83.39
+  },
+  {
+    "cliente": "Cliente078",
+    "monto": 62.41
+  },
+  {
+    "cliente": "Cliente160",
+    "monto": 26.84
+  },
+  {
+    "cliente": "Cliente119",
+    "monto": 46.31
+  },
+  {
+    "cliente": "Cliente152",
+    "monto": 53.05
+  },
+  {
+    "cliente": "Cliente199",
+    "monto": 135.53
+  },
+  {
+    "cliente": "Cliente140",
+    "monto": 190.82
+  },
+  {
+    "cliente": "Cliente039",
+    "monto": 93.99
+  },
+  {
+    "cliente": "Cliente105",
+    "monto": 204.61
+  },
+  {
+    "cliente": "Cliente139",
+    "monto": 300.96
+  },
+  {
+    "cliente": "Cliente003",
+    "monto": 41.48
+  },
+  {
+    "cliente": "Cliente001",
+    "monto": 68.57
+  },
+  {
+    "cliente": "Cliente169",
+    "monto": 197.77
+  },
+  {
+    "cliente": "Cliente187",
+    "monto": 71.02
+  },
+  {
+    "cliente": "Cliente027",
+    "monto": 472.69
+  },
+  {
+    "cliente": "Cliente061",
+    "monto": 53.71
+  },
+  {
+    "cliente": "Cliente126",
+    "monto": 424.77
+  },
+  {
+    "cliente": "Cliente183",
+    "monto": 113.83
+  },
+  {
+    "cliente": "Cliente012",
+    "monto": 170.26
+  },
+  {
+    "cliente": "Cliente106",
+    "monto": 66.55
+  },
+  {
+    "cliente": "Cliente096",
+    "monto": 80.73
+  },
+  {
+    "cliente": "Cliente022",
+    "monto": 52.86
+  },
+  {
+    "cliente": "Cliente130",
+    "monto": 216.41
+  },
+  {
+    "cliente": "Cliente164",
+    "monto": 88.92
+  },
+  {
+    "cliente": "Cliente020",
+    "monto": 16.57
+  },
+  {
+    "cliente": "Cliente146",
+    "monto": 70.01
+  },
+  {
+    "cliente": "Cliente112",
+    "monto": 19.23
+  },
+  {
+    "cliente": "Cliente034",
+    "monto": 79.23
+  },
+  {
+    "cliente": "Cliente075",
+    "monto": 37.23
+  },
+  {
+    "cliente": "Cliente081",
+    "monto": 185.75
+  },
+  {
+    "cliente": "Cliente180",
+    "monto": 284.59
+  },
+  {
+    "cliente": "Cliente116",
+    "monto": 211.01
+  },
+  {
+    "cliente": "Cliente052",
+    "monto": 76.05
+  },
+  {
+    "cliente": "Cliente200",
+    "monto": 80.0
+  },
+  {
+    "cliente": "Cliente028",
+    "monto": 179.43
+  },
+  {
+    "cliente": "Cliente043",
+    "monto": 234.83
+  },
+  {
+    "cliente": "Cliente081",
+    "monto": 160.66
+  },
+  {
+    "cliente": "Cliente138",
+    "monto": 35.59
+  },
+  {
+    "cliente": "Cliente198",
+    "monto": 94.72
+  },
+  {
+    "cliente": "Cliente116",
+    "monto": 35.93
+  },
+  {
+    "cliente": "Cliente119",
+    "monto": 40.68
+  },
+  {
+    "cliente": "Cliente031",
+    "monto": 21.45
+  },
+  {
+    "cliente": "Cliente041",
+    "monto": 103.91
+  },
+  {
+    "cliente": "Cliente078",
+    "monto": 369.9
+  },
+  {
+    "cliente": "Cliente011",
+    "monto": 28.96
+  },
+  {
+    "cliente": "Cliente084",
+    "monto": 191.18
+  },
+  {
+    "cliente": "Cliente183",
+    "monto": 53.79
+  },
+  {
+    "cliente": "Cliente092",
+    "monto": 214.91
+  },
+  {
+    "cliente": "Cliente013",
+    "monto": 139.39
+  },
+  {
+    "cliente": "Cliente067",
+    "monto": 344.56
+  },
+  {
+    "cliente": "Cliente104",
+    "monto": 74.13
+  },
+  {
+    "cliente": "Cliente143",
+    "monto": 60.22
+  },
+  {
+    "cliente": "Cliente141",
+    "monto": 52.55
+  },
+  {
+    "cliente": "Cliente025",
+    "monto": 21.74
+  },
+  {
+    "cliente": "Cliente027",
+    "monto": 76.38
+  },
+  {
+    "cliente": "Cliente032",
+    "monto": 48.94
+  },
+  {
+    "cliente": "Cliente016",
+    "monto": 103.92
+  },
+  {
+    "cliente": "Cliente034",
+    "monto": 288.05
+  },
+  {
+    "cliente": "Cliente096",
+    "monto": 303.51
+  },
+  {
+    "cliente": "Cliente162",
+    "monto": 64.59
+  },
+  {
+    "cliente": "Cliente022",
+    "monto": 33.58
+  },
+  {
+    "cliente": "Cliente067",
+    "monto": 24.54
+  },
+  {
+    "cliente": "Cliente006",
+    "monto": 23.25
+  },
+  {
+    "cliente": "Cliente051",
+    "monto": 206.81
+  },
+  {
+    "cliente": "Cliente024",
+    "monto": 382.61
+  },
+  {
+    "cliente": "Cliente119",
+    "monto": 146.33
+  },
+  {
+    "cliente": "Cliente044",
+    "monto": 239.04
+  },
+  {
+    "cliente": "Cliente186",
+    "monto": 256.19
+  },
+  {
+    "cliente": "Cliente098",
+    "monto": 103.66
+  },
+  {
+    "cliente": "Cliente110",
+    "monto": 186.69
+  },
+  {
+    "cliente": "Cliente055",
+    "monto": 358.86
+  },
+  {
+    "cliente": "Cliente072",
+    "monto": 155.81
+  },
+  {
+    "cliente": "Cliente039",
+    "monto": 84.09
+  },
+  {
+    "cliente": "Cliente158",
+    "monto": 56.47
+  },
+  {
+    "cliente": "Cliente158",
+    "monto": 81.47
+  },
+  {
+    "cliente": "Cliente166",
+    "monto": 102.0
+  },
+  {
+    "cliente": "Cliente128",
+    "monto": 58.86
+  },
+  {
+    "cliente": "Cliente141",
+    "monto": 158.43
+  },
+  {
+    "cliente": "Cliente023",
+    "monto": 199.34
+  },
+  {
+    "cliente": "Cliente108",
+    "monto": 456.62
+  },
+  {
+    "cliente": "Cliente064",
+    "monto": 36.72
+  },
+  {
+    "cliente": "Cliente140",
+    "monto": 116.96
+  },
+  {
+    "cliente": "Cliente098",
+    "monto": 82.48
+  },
+  {
+    "cliente": "Cliente092",
+    "monto": 230.93
+  },
+  {
+    "cliente": "Cliente089",
+    "monto": 41.95
+  },
+  {
+    "cliente": "Cliente129",
+    "monto": 153.89
+  },
+  {
+    "cliente": "Cliente100",
+    "monto": 598.13
+  },
+  {
+    "cliente": "Cliente007",
+    "monto": 235.81
+  },
+  {
+    "cliente": "Cliente057",
+    "monto": 238.31
+  },
+  {
+    "cliente": "Cliente200",
+    "monto": 67.09
+  },
+  {
+    "cliente": "Cliente015",
+    "monto": 70.84
+  },
+  {
+    "cliente": "Cliente136",
+    "monto": 37.9
+  },
+  {
+    "cliente": "Cliente197",
+    "monto": 16.26
+  },
+  {
+    "cliente": "Cliente060",
+    "monto": 7.77
+  },
+  {
+    "cliente": "Cliente026",
+    "monto": 24.26
+  },
+  {
+    "cliente": "Cliente169",
+    "monto": 52.73
+  },
+  {
+    "cliente": "Cliente069",
+    "monto": 309.82
+  },
+  {
+    "cliente": "Cliente015",
+    "monto": 68.32
+  },
+  {
+    "cliente": "Cliente057",
+    "monto": 154.05
+  },
+  {
+    "cliente": "Cliente091",
+    "monto": 109.58
+  },
+  {
+    "cliente": "Cliente046",
+    "monto": 25.03
+  },
+  {
+    "cliente": "Cliente152",
+    "monto": 310.33
+  },
+  {
+    "cliente": "Cliente189",
+    "monto": 122.75
+  },
+  {
+    "cliente": "Cliente008",
+    "monto": 113.17
+  },
+  {
+    "cliente": "Cliente091",
+    "monto": 37.46
+  },
+  {
+    "cliente": "Cliente145",
+    "monto": 312.76
+  },
+  {
+    "cliente": "Cliente127",
+    "monto": 238.69
+  },
+  {
+    "cliente": "Cliente080",
+    "monto": 124.42
+  },
+  {
+    "cliente": "Cliente126",
+    "monto": 87.04
+  },
+  {
+    "cliente": "Cliente024",
+    "monto": 364.98
+  },
+  {
+    "cliente": "Cliente155",
+    "monto": 25.54
+  },
+  {
+    "cliente": "Cliente006",
+    "monto": 245.89
+  },
+  {
+    "cliente": "Cliente085",
+    "monto": 221.59
+  },
+  {
+    "cliente": "Cliente034",
+    "monto": 21.2
+  },
+  {
+    "cliente": "Cliente184",
+    "monto": 125.8
+  },
+  {
+    "cliente": "Cliente083",
+    "monto": 145.24
+  },
+  {
+    "cliente": "Cliente006",
+    "monto": 92.64
+  },
+  {
+    "cliente": "Cliente151",
+    "monto": 347.16
+  },
+  {
+    "cliente": "Cliente199",
+    "monto": 219.08
+  },
+  {
+    "cliente": "Cliente094",
+    "monto": 22.84
+  },
+  {
+    "cliente": "Cliente096",
+    "monto": 154.85
+  },
+  {
+    "cliente": "Cliente170",
+    "monto": 125.88
+  },
+  {
+    "cliente": "Cliente026",
+    "monto": 42.53
+  },
+  {
+    "cliente": "Cliente078",
+    "monto": 223.15
+  },
+  {
+    "cliente": "Cliente041",
+    "monto": 41.5
+  },
+  {
+    "cliente": "Cliente112",
+    "monto": 17.53
+  },
+  {
+    "cliente": "Cliente125",
+    "monto": 64.28
+  },
+  {
+    "cliente": "Cliente082",
+    "monto": 249.54
+  },
+  {
+    "cliente": "Cliente182",
+    "monto": 91.57
+  },
+  {
+    "cliente": "Cliente178",
+    "monto": 150.64
+  },
+  {
+    "cliente": "Cliente058",
+    "monto": 9.47
+  },
+  {
+    "cliente": "Cliente151",
+    "monto": 355.04
+  },
+  {
+    "cliente": "Cliente097",
+    "monto": 163.99
+  },
+  {
+    "cliente": "Cliente177",
+    "monto": 52.03
+  },
+  {
+    "cliente": "Cliente033",
+    "monto": 117.57
+  },
+  {
+    "cliente": "Cliente187",
+    "monto": 48.96
+  },
+  {
+    "cliente": "Cliente180",
+    "monto": 37.93
+  },
+  {
+    "cliente": "Cliente101",
+    "monto": 25.35
+  },
+  {
+    "cliente": "Cliente146",
+    "monto": 164.49
+  },
+  {
+    "cliente": "Cliente047",
+    "monto": 384.1
+  },
+  {
+    "cliente": "Cliente157",
+    "monto": 77.21
+  },
+  {
+    "cliente": "Cliente164",
+    "monto": 82.35
+  },
+  {
+    "cliente": "Cliente027",
+    "monto": 213.72
+  },
+  {
+    "cliente": "Cliente191",
+    "monto": 49.5
+  },
+  {
+    "cliente": "Cliente089",
+    "monto": 144.43
+  },
+  {
+    "cliente": "Cliente043",
+    "monto": 58.79
+  },
+  {
+    "cliente": "Cliente182",
+    "monto": 123.24
+  },
+  {
+    "cliente": "Cliente086",
+    "monto": 244.7
+  },
+  {
+    "cliente": "Cliente054",
+    "monto": 25.79
+  },
+  {
+    "cliente": "Cliente178",
+    "monto": 81.09
+  },
+  {
+    "cliente": "Cliente066",
+    "monto": 24.89
+  },
+  {
+    "cliente": "Cliente185",
+    "monto": 102.25
+  },
+  {
+    "cliente": "Cliente013",
+    "monto": 132.89
+  },
+  {
+    "cliente": "Cliente188",
+    "monto": 26.21
+  },
+  {
+    "cliente": "Cliente043",
+    "monto": 29.34
+  },
+  {
+    "cliente": "Cliente127",
+    "monto": 181.45
+  },
+  {
+    "cliente": "Cliente140",
+    "monto": 123.08
+  },
+  {
+    "cliente": "Cliente026",
+    "monto": 155.07
+  },
+  {
+    "cliente": "Cliente167",
+    "monto": 71.15
+  },
+  {
+    "cliente": "Cliente176",
+    "monto": 35.35
+  },
+  {
+    "cliente": "Cliente116",
+    "monto": 143.45
+  },
+  {
+    "cliente": "Cliente076",
+    "monto": 237.51
+  },
+  {
+    "cliente": "Cliente082",
+    "monto": 53.22
+  },
+  {
+    "cliente": "Cliente019",
+    "monto": 29.19
+  },
+  {
+    "cliente": "Cliente097",
+    "monto": 88.85
+  },
+  {
+    "cliente": "Cliente020",
+    "monto": 150.54
+  },
+  {
+    "cliente": "Cliente087",
+    "monto": 171.96
+  },
+  {
+    "cliente": "Cliente158",
+    "monto": 231.73
+  },
+  {
+    "cliente": "Cliente008",
+    "monto": 178.48
+  },
+  {
+    "cliente": "Cliente168",
+    "monto": 281.59
+  },
+  {
+    "cliente": "Cliente041",
+    "monto": 81.35
+  },
+  {
+    "cliente": "Cliente085",
+    "monto": 159.47
+  },
+  {
+    "cliente": "Cliente179",
+    "monto": 92.3
+  },
+  {
+    "cliente": "Cliente185",
+    "monto": 313.2
+  },
+  {
+    "cliente": "Cliente170",
+    "monto": 133.45
+  },
+  {
+    "cliente": "Cliente061",
+    "monto": 12.15
+  },
+  {
+    "cliente": "Cliente013",
+    "monto": 96.76
+  },
+  {
+    "cliente": "Cliente147",
+    "monto": 212.73
+  },
+  {
+    "cliente": "Cliente014",
+    "monto": 50.26
+  },
+  {
+    "cliente": "Cliente001",
+    "monto": 142.81
+  },
+  {
+    "cliente": "Cliente076",
+    "monto": 45.62
+  },
+  {
+    "cliente": "Cliente154",
+    "monto": 76.32
+  },
+  {
+    "cliente": "Cliente052",
+    "monto": 448.58
+  },
+  {
+    "cliente": "Cliente053",
+    "monto": 6.83
+  },
+  {
+    "cliente": "Cliente164",
+    "monto": 106.56
+  },
+  {
+    "cliente": "Cliente021",
+    "monto": 149.95
+  },
+  {
+    "cliente": "Cliente030",
+    "monto": 295.82
+  },
+  {
+    "cliente": "Cliente121",
+    "monto": 86.85
+  },
+  {
+    "cliente": "Cliente024",
+    "monto": 170.89
+  },
+  {
+    "cliente": "Cliente100",
+    "monto": 122.49
+  },
+  {
+    "cliente": "Cliente095",
+    "monto": 105.72
+  },
+  {
+    "cliente": "Cliente095",
+    "monto": 111.57
+  },
+  {
+    "cliente": "Cliente115",
+    "monto": 89.97
+  },
+  {
+    "cliente": "Cliente068",
+    "monto": 71.69
+  },
+  {
+    "cliente": "Cliente120",
+    "monto": 144.11
+  },
+  {
+    "cliente": "Cliente069",
+    "monto": 200.81
+  },
+  {
+    "cliente": "Cliente193",
+    "monto": 65.34
+  },
+  {
+    "cliente": "Cliente171",
+    "monto": 33.3
+  },
+  {
+    "cliente": "Cliente022",
+    "monto": 156.49
+  },
+  {
+    "cliente": "Cliente139",
+    "monto": 97.54
+  },
+  {
+    "cliente": "Cliente151",
+    "monto": 290.93
+  },
+  {
+    "cliente": "Cliente016",
+    "monto": 55.51
+  },
+  {
+    "cliente": "Cliente134",
+    "monto": 28.16
+  },
+  {
+    "cliente": "Cliente138",
+    "monto": 207.48
+  },
+  {
+    "cliente": "Cliente122",
+    "monto": 41.93
+  },
+  {
+    "cliente": "Cliente061",
+    "monto": 177.44
+  },
+  {
+    "cliente": "Cliente021",
+    "monto": 88.28
+  },
+  {
+    "cliente": "Cliente183",
+    "monto": 382.61
+  },
+  {
+    "cliente": "Cliente129",
+    "monto": 37.97
+  },
+  {
+    "cliente": "Cliente133",
+    "monto": 113.2
+  },
+  {
+    "cliente": "Cliente174",
+    "monto": 150.14
+  },
+  {
+    "cliente": "Cliente031",
+    "monto": 129.05
+  },
+  {
+    "cliente": "Cliente115",
+    "monto": 372.98
+  },
+  {
+    "cliente": "Cliente043",
+    "monto": 159.81
+  },
+  {
+    "cliente": "Cliente033",
+    "monto": 174.25
+  },
+  {
+    "cliente": "Cliente109",
+    "monto": 48.19
+  },
+  {
+    "cliente": "Cliente175",
+    "monto": 61.03
+  },
+  {
+    "cliente": "Cliente052",
+    "monto": 19.46
+  },
+  {
+    "cliente": "Cliente038",
+    "monto": 239.89
+  },
+  {
+    "cliente": "Cliente082",
+    "monto": 77.52
+  },
+  {
+    "cliente": "Cliente018",
+    "monto": 67.09
+  },
+  {
+    "cliente": "Cliente100",
+    "monto": 189.47
+  },
+  {
+    "cliente": "Cliente142",
+    "monto": 135.66
+  },
+  {
+    "cliente": "Cliente134",
+    "monto": 11.02
+  },
+  {
+    "cliente": "Cliente004",
+    "monto": 32.66
+  },
+  {
+    "cliente": "Cliente160",
+    "monto": 46.05
+  },
+  {
+    "cliente": "Cliente134",
+    "monto": 196.32
+  },
+  {
+    "cliente": "Cliente039",
+    "monto": 92.19
+  },
+  {
+    "cliente": "Cliente146",
+    "monto": 16.9
+  },
+  {
+    "cliente": "Cliente150",
+    "monto": 281.81
+  },
+  {
+    "cliente": "Cliente026",
+    "monto": 32.51
+  },
+  {
+    "cliente": "Cliente145",
+    "monto": 25.11
+  },
+  {
+    "cliente": "Cliente026",
+    "monto": 286.63
+  },
+  {
+    "cliente": "Cliente089",
+    "monto": 27.3
+  },
+  {
+    "cliente": "Cliente068",
+    "monto": 266.47
+  },
+  {
+    "cliente": "Cliente147",
+    "monto": 179.19
+  },
+  {
+    "cliente": "Cliente122",
+    "monto": 416.23
+  },
+  {
+    "cliente": "Cliente071",
+    "monto": 97.95
+  },
+  {
+    "cliente": "Cliente037",
+    "monto": 108.69
+  },
+  {
+    "cliente": "Cliente156",
+    "monto": 147.06
+  },
+  {
+    "cliente": "Cliente103",
+    "monto": 177.86
+  },
+  {
+    "cliente": "Cliente102",
+    "monto": 87.06
+  },
+  {
+    "cliente": "Cliente177",
+    "monto": 372.9
+  },
+  {
+    "cliente": "Cliente122",
+    "monto": 62.28
+  },
+  {
+    "cliente": "Cliente096",
+    "monto": 123.06
+  },
+  {
+    "cliente": "Cliente087",
+    "monto": 81.16
+  },
+  {
+    "cliente": "Cliente080",
+    "monto": 67.74
+  },
+  {
+    "cliente": "Cliente126",
+    "monto": 515.96
+  },
+  {
+    "cliente": "Cliente026",
+    "monto": 48.24
+  },
+  {
+    "cliente": "Cliente035",
+    "monto": 169.07
+  },
+  {
+    "cliente": "Cliente114",
+    "monto": 27.75
+  },
+  {
+    "cliente": "Cliente083",
+    "monto": 183.13
+  },
+  {
+    "cliente": "Cliente187",
+    "monto": 132.28
+  },
+  {
+    "cliente": "Cliente166",
+    "monto": 119.52
+  },
+  {
+    "cliente": "Cliente114",
+    "monto": 29.7
+  },
+  {
+    "cliente": "Cliente105",
+    "monto": 230.17
+  },
+  {
+    "cliente": "Cliente195",
+    "monto": 230.07
+  },
+  {
+    "cliente": "Cliente132",
+    "monto": 14.98
+  },
+  {
+    "cliente": "Cliente017",
+    "monto": 39.21
+  },
+  {
+    "cliente": "Cliente182",
+    "monto": 296.15
+  },
+  {
+    "cliente": "Cliente200",
+    "monto": 266.84
+  },
+  {
+    "cliente": "Cliente008",
+    "monto": 122.23
+  },
+  {
+    "cliente": "Cliente050",
+    "monto": 99.7
+  },
+  {
+    "cliente": "Cliente015",
+    "monto": 199.15
+  },
+  {
+    "cliente": "Cliente117",
+    "monto": 351.41
+  },
+  {
+    "cliente": "Cliente051",
+    "monto": 180.74
+  },
+  {
+    "cliente": "Cliente095",
+    "monto": 20.63
+  },
+  {
+    "cliente": "Cliente130",
+    "monto": 382.3
+  },
+  {
+    "cliente": "Cliente163",
+    "monto": 206.45
+  },
+  {
+    "cliente": "Cliente008",
+    "monto": 50.01
+  },
+  {
+    "cliente": "Cliente096",
+    "monto": 25.67
+  },
+  {
+    "cliente": "Cliente153",
+    "monto": 137.35
+  },
+  {
+    "cliente": "Cliente046",
+    "monto": 78.87
+  },
+  {
+    "cliente": "Cliente151",
+    "monto": 97.0
+  },
+  {
+    "cliente": "Cliente090",
+    "monto": 45.43
+  },
+  {
+    "cliente": "Cliente067",
+    "monto": 126.14
+  },
+  {
+    "cliente": "Cliente177",
+    "monto": 22.45
+  },
+  {
+    "cliente": "Cliente073",
+    "monto": 245.72
+  },
+  {
+    "cliente": "Cliente099",
+    "monto": 318.85
+  },
+  {
+    "cliente": "Cliente200",
+    "monto": 56.79
+  },
+  {
+    "cliente": "Cliente057",
+    "monto": 172.65
+  },
+  {
+    "cliente": "Cliente058",
+    "monto": 334.51
+  },
+  {
+    "cliente": "Cliente053",
+    "monto": 63.71
+  },
+  {
+    "cliente": "Cliente167",
+    "monto": 67.57
+  },
+  {
+    "cliente": "Cliente006",
+    "monto": 386.41
+  },
+  {
+    "cliente": "Cliente003",
+    "monto": 156.12
+  },
+  {
+    "cliente": "Cliente034",
+    "monto": 190.27
+  },
+  {
+    "cliente": "Cliente045",
+    "monto": 203.28
+  },
+  {
+    "cliente": "Cliente058",
+    "monto": 238.36
+  },
+  {
+    "cliente": "Cliente183",
+    "monto": 150.44
+  },
+  {
+    "cliente": "Cliente165",
+    "monto": 61.67
+  },
+  {
+    "cliente": "Cliente109",
+    "monto": 104.76
+  },
+  {
+    "cliente": "Cliente065",
+    "monto": 29.16
+  },
+  {
+    "cliente": "Cliente120",
+    "monto": 224.65
+  },
+  {
+    "cliente": "Cliente134",
+    "monto": 104.72
+  },
+  {
+    "cliente": "Cliente102",
+    "monto": 196.63
+  },
+  {
+    "cliente": "Cliente131",
+    "monto": 18.66
+  },
+  {
+    "cliente": "Cliente096",
+    "monto": 298.67
+  },
+  {
+    "cliente": "Cliente156",
+    "monto": 223.68
+  },
+  {
+    "cliente": "Cliente077",
+    "monto": 452.78
+  },
+  {
+    "cliente": "Cliente124",
+    "monto": 45.04
+  },
+  {
+    "cliente": "Cliente071",
+    "monto": 97.64
+  },
+  {
+    "cliente": "Cliente071",
+    "monto": 38.71
+  },
+  {
+    "cliente": "Cliente168",
+    "monto": 79.3
+  },
+  {
+    "cliente": "Cliente167",
+    "monto": 39.0
+  },
+  {
+    "cliente": "Cliente049",
+    "monto": 313.08
+  },
+  {
+    "cliente": "Cliente196",
+    "monto": 102.22
+  },
+  {
+    "cliente": "Cliente154",
+    "monto": 128.64
+  },
+  {
+    "cliente": "Cliente082",
+    "monto": 340.14
+  },
+  {
+    "cliente": "Cliente036",
+    "monto": 86.46
+  },
+  {
+    "cliente": "Cliente007",
+    "monto": 60.82
+  },
+  {
+    "cliente": "Cliente128",
+    "monto": 249.83
+  },
+  {
+    "cliente": "Cliente104",
+    "monto": 164.19
+  },
+  {
+    "cliente": "Cliente189",
+    "monto": 230.7
+  },
+  {
+    "cliente": "Cliente182",
+    "monto": 42.32
+  },
+  {
+    "cliente": "Cliente049",
+    "monto": 19.79
+  },
+  {
+    "cliente": "Cliente186",
+    "monto": 161.64
+  },
+  {
+    "cliente": "Cliente057",
+    "monto": 106.64
+  },
+  {
+    "cliente": "Cliente137",
+    "monto": 118.22
+  },
+  {
+    "cliente": "Cliente092",
+    "monto": 86.17
+  },
+  {
+    "cliente": "Cliente044",
+    "monto": 8.29
+  },
+  {
+    "cliente": "Cliente143",
+    "monto": 219.45
+  },
+  {
+    "cliente": "Cliente076",
+    "monto": 23.09
+  },
+  {
+    "cliente": "Cliente121",
+    "monto": 136.65
+  },
+  {
+    "cliente": "Cliente190",
+    "monto": 159.38
+  },
+  {
+    "cliente": "Cliente144",
+    "monto": 216.44
+  },
+  {
+    "cliente": "Cliente047",
+    "monto": 234.11
+  },
+  {
+    "cliente": "Cliente086",
+    "monto": 112.35
+  },
+  {
+    "cliente": "Cliente091",
+    "monto": 25.52
+  },
+  {
+    "cliente": "Cliente191",
+    "monto": 86.46
+  },
+  {
+    "cliente": "Cliente096",
+    "monto": 37.35
+  },
+  {
+    "cliente": "Cliente150",
+    "monto": 234.24
+  },
+  {
+    "cliente": "Cliente119",
+    "monto": 222.93
+  },
+  {
+    "cliente": "Cliente121",
+    "monto": 158.3
+  },
+  {
+    "cliente": "Cliente163",
+    "monto": 17.43
+  },
+  {
+    "cliente": "Cliente149",
+    "monto": 53.46
+  },
+  {
+    "cliente": "Cliente019",
+    "monto": 155.33
+  },
+  {
+    "cliente": "Cliente050",
+    "monto": 233.53
+  },
+  {
+    "cliente": "Cliente098",
+    "monto": 154.76
+  },
+  {
+    "cliente": "Cliente106",
+    "monto": 248.93
+  },
+  {
+    "cliente": "Cliente036",
+    "monto": 119.68
+  },
+  {
+    "cliente": "Cliente105",
+    "monto": 62.07
+  },
+  {
+    "cliente": "Cliente037",
+    "monto": 150.12
+  },
+  {
+    "cliente": "Cliente047",
+    "monto": 52.61
+  },
+  {
+    "cliente": "Cliente021",
+    "monto": 99.56
+  },
+  {
+    "cliente": "Cliente086",
+    "monto": 373.51
+  },
+  {
+    "cliente": "Cliente081",
+    "monto": 90.39
+  },
+  {
+    "cliente": "Cliente002",
+    "monto": 329.44
+  },
+  {
+    "cliente": "Cliente054",
+    "monto": 218.81
+  },
+  {
+    "cliente": "Cliente199",
+    "monto": 7.4
+  },
+  {
+    "cliente": "Cliente148",
+    "monto": 77.28
+  },
+  {
+    "cliente": "Cliente126",
+    "monto": 65.87
+  },
+  {
+    "cliente": "Cliente200",
+    "monto": 21.81
+  },
+  {
+    "cliente": "Cliente034",
+    "monto": 219.32
+  },
+  {
+    "cliente": "Cliente112",
+    "monto": 41.0
+  },
+  {
+    "cliente": "Cliente110",
+    "monto": 197.19
+  },
+  {
+    "cliente": "Cliente110",
+    "monto": 135.32
+  },
+  {
+    "cliente": "Cliente002",
+    "monto": 216.49
+  },
+  {
+    "cliente": "Cliente052",
+    "monto": 38.46
+  },
+  {
+    "cliente": "Cliente096",
+    "monto": 186.37
+  },
+  {
+    "cliente": "Cliente136",
+    "monto": 96.11
+  },
+  {
+    "cliente": "Cliente005",
+    "monto": 209.23
+  },
+  {
+    "cliente": "Cliente002",
+    "monto": 20.48
+  },
+  {
+    "cliente": "Cliente188",
+    "monto": 109.97
+  },
+  {
+    "cliente": "Cliente089",
+    "monto": 198.19
+  },
+  {
+    "cliente": "Cliente027",
+    "monto": 59.3
+  },
+  {
+    "cliente": "Cliente129",
+    "monto": 15.79
+  },
+  {
+    "cliente": "Cliente079",
+    "monto": 58.65
+  },
+  {
+    "cliente": "Cliente012",
+    "monto": 79.36
+  },
+  {
+    "cliente": "Cliente075",
+    "monto": 216.45
+  },
+  {
+    "cliente": "Cliente153",
+    "monto": 113.65
+  },
+  {
+    "cliente": "Cliente087",
+    "monto": 136.26
+  },
+  {
+    "cliente": "Cliente176",
+    "monto": 148.7
+  },
+  {
+    "cliente": "Cliente088",
+    "monto": 24.58
+  },
+  {
+    "cliente": "Cliente092",
+    "monto": 67.91
+  },
+  {
+    "cliente": "Cliente049",
+    "monto": 7.33
+  },
+  {
+    "cliente": "Cliente104",
+    "monto": 363.17
+  },
+  {
+    "cliente": "Cliente059",
+    "monto": 112.25
+  },
+  {
+    "cliente": "Cliente034",
+    "monto": 61.99
+  },
+  {
+    "cliente": "Cliente188",
+    "monto": 227.14
+  },
+  {
+    "cliente": "Cliente151",
+    "monto": 12.76
+  },
+  {
+    "cliente": "Cliente044",
+    "monto": 101.14
+  },
+  {
+    "cliente": "Cliente094",
+    "monto": 83.68
+  },
+  {
+    "cliente": "Cliente167",
+    "monto": 144.45
+  },
+  {
+    "cliente": "Cliente164",
+    "monto": 37.47
+  },
+  {
+    "cliente": "Cliente198",
+    "monto": 470.11
+  },
+  {
+    "cliente": "Cliente013",
+    "monto": 80.44
+  },
+  {
+    "cliente": "Cliente013",
+    "monto": 8.79
+  },
+  {
+    "cliente": "Cliente028",
+    "monto": 487.41
+  },
+  {
+    "cliente": "Cliente177",
+    "monto": 139.91
+  },
+  {
+    "cliente": "Cliente114",
+    "monto": 701.44
+  },
+  {
+    "cliente": "Cliente065",
+    "monto": 153.25
+  },
+  {
+    "cliente": "Cliente180",
+    "monto": 213.94
+  },
+  {
+    "cliente": "Cliente178",
+    "monto": 107.16
+  },
+  {
+    "cliente": "Cliente162",
+    "monto": 133.55
+  },
+  {
+    "cliente": "Cliente108",
+    "monto": 27.46
+  },
+  {
+    "cliente": "Cliente026",
+    "monto": 8.33
+  },
+  {
+    "cliente": "Cliente134",
+    "monto": 295.51
+  },
+  {
+    "cliente": "Cliente180",
+    "monto": 69.69
+  },
+  {
+    "cliente": "Cliente108",
+    "monto": 51.64
+  },
+  {
+    "cliente": "Cliente185",
+    "monto": 51.86
+  },
+  {
+    "cliente": "Cliente031",
+    "monto": 215.15
+  },
+  {
+    "cliente": "Cliente028",
+    "monto": 119.12
+  },
+  {
+    "cliente": "Cliente156",
+    "monto": 276.53
+  },
+  {
+    "cliente": "Cliente134",
+    "monto": 104.87
+  },
+  {
+    "cliente": "Cliente092",
+    "monto": 77.14
+  },
+  {
+    "cliente": "Cliente105",
+    "monto": 55.44
+  },
+  {
+    "cliente": "Cliente042",
+    "monto": 288.7
+  },
+  {
+    "cliente": "Cliente128",
+    "monto": 29.87
+  },
+  {
+    "cliente": "Cliente177",
+    "monto": 77.69
+  },
+  {
+    "cliente": "Cliente085",
+    "monto": 145.81
+  },
+  {
+    "cliente": "Cliente004",
+    "monto": 8.42
+  },
+  {
+    "cliente": "Cliente023",
+    "monto": 413.08
+  },
+  {
+    "cliente": "Cliente172",
+    "monto": 49.84
+  },
+  {
+    "cliente": "Cliente039",
+    "monto": 96.16
+  },
+  {
+    "cliente": "Cliente131",
+    "monto": 145.74
+  },
+  {
+    "cliente": "Cliente186",
+    "monto": 112.5
+  },
+  {
+    "cliente": "Cliente060",
+    "monto": 29.59
+  },
+  {
+    "cliente": "Cliente076",
+    "monto": 79.99
+  },
+  {
+    "cliente": "Cliente119",
+    "monto": 323.19
+  },
+  {
+    "cliente": "Cliente011",
+    "monto": 105.0
+  },
+  {
+    "cliente": "Cliente174",
+    "monto": 73.61
+  },
+  {
+    "cliente": "Cliente110",
+    "monto": 69.12
+  },
+  {
+    "cliente": "Cliente030",
+    "monto": 32.82
+  },
+  {
+    "cliente": "Cliente195",
+    "monto": 444.19
+  },
+  {
+    "cliente": "Cliente036",
+    "monto": 84.29
+  },
+  {
+    "cliente": "Cliente085",
+    "monto": 40.43
+  },
+  {
+    "cliente": "Cliente113",
+    "monto": 56.9
+  },
+  {
+    "cliente": "Cliente069",
+    "monto": 38.67
+  },
+  {
+    "cliente": "Cliente024",
+    "monto": 374.28
+  },
+  {
+    "cliente": "Cliente030",
+    "monto": 189.53
+  },
+  {
+    "cliente": "Cliente117",
+    "monto": 140.98
+  },
+  {
+    "cliente": "Cliente099",
+    "monto": 71.46
+  },
+  {
+    "cliente": "Cliente123",
+    "monto": 187.79
+  },
+  {
+    "cliente": "Cliente029",
+    "monto": 152.66
+  },
+  {
+    "cliente": "Cliente016",
+    "monto": 83.35
+  },
+  {
+    "cliente": "Cliente152",
+    "monto": 229.4
+  },
+  {
+    "cliente": "Cliente146",
+    "monto": 185.09
+  },
+  {
+    "cliente": "Cliente047",
+    "monto": 117.34
+  },
+  {
+    "cliente": "Cliente200",
+    "monto": 72.35
+  },
+  {
+    "cliente": "Cliente157",
+    "monto": 330.35
+  },
+  {
+    "cliente": "Cliente176",
+    "monto": 231.92
+  },
+  {
+    "cliente": "Cliente124",
+    "monto": 391.04
+  },
+  {
+    "cliente": "Cliente113",
+    "monto": 83.47
+  },
+  {
+    "cliente": "Cliente017",
+    "monto": 78.42
+  },
+  {
+    "cliente": "Cliente168",
+    "monto": 81.16
+  },
+  {
+    "cliente": "Cliente004",
+    "monto": 537.64
+  },
+  {
+    "cliente": "Cliente135",
+    "monto": 24.4
+  },
+  {
+    "cliente": "Cliente191",
+    "monto": 85.55
+  },
+  {
+    "cliente": "Cliente186",
+    "monto": 79.37
+  },
+  {
+    "cliente": "Cliente058",
+    "monto": 38.47
+  },
+  {
+    "cliente": "Cliente133",
+    "monto": 114.76
+  },
+  {
+    "cliente": "Cliente177",
+    "monto": 119.58
+  },
+  {
+    "cliente": "Cliente111",
+    "monto": 18.27
+  },
+  {
+    "cliente": "Cliente187",
+    "monto": 24.39
+  },
+  {
+    "cliente": "Cliente124",
+    "monto": 110.92
+  },
+  {
+    "cliente": "Cliente170",
+    "monto": 212.83
+  },
+  {
+    "cliente": "Cliente165",
+    "monto": 61.68
+  },
+  {
+    "cliente": "Cliente039",
+    "monto": 394.43
+  },
+  {
+    "cliente": "Cliente014",
+    "monto": 48.74
+  },
+  {
+    "cliente": "Cliente165",
+    "monto": 6.79
+  },
+  {
+    "cliente": "Cliente130",
+    "monto": 148.37
+  },
+  {
+    "cliente": "Cliente127",
+    "monto": 51.5
+  },
+  {
+    "cliente": "Cliente193",
+    "monto": 51.82
+  },
+  {
+    "cliente": "Cliente083",
+    "monto": 27.62
+  },
+  {
+    "cliente": "Cliente085",
+    "monto": 140.57
+  },
+  {
+    "cliente": "Cliente130",
+    "monto": 103.31
+  },
+  {
+    "cliente": "Cliente141",
+    "monto": 132.16
+  },
+  {
+    "cliente": "Cliente097",
+    "monto": 150.75
+  },
+  {
+    "cliente": "Cliente021",
+    "monto": 9.92
+  },
+  {
+    "cliente": "Cliente114",
+    "monto": 139.18
+  },
+  {
+    "cliente": "Cliente128",
+    "monto": 74.57
+  },
+  {
+    "cliente": "Cliente081",
+    "monto": 199.86
+  },
+  {
+    "cliente": "Cliente128",
+    "monto": 69.23
+  },
+  {
+    "cliente": "Cliente168",
+    "monto": 127.23
+  },
+  {
+    "cliente": "Cliente104",
+    "monto": 124.17
+  },
+  {
+    "cliente": "Cliente143",
+    "monto": 187.96
+  },
+  {
+    "cliente": "Cliente001",
+    "monto": 225.04
+  },
+  {
+    "cliente": "Cliente159",
+    "monto": 18.26
+  },
+  {
+    "cliente": "Cliente078",
+    "monto": 228.25
+  },
+  {
+    "cliente": "Cliente168",
+    "monto": 8.26
+  },
+  {
+    "cliente": "Cliente117",
+    "monto": 125.44
+  },
+  {
+    "cliente": "Cliente014",
+    "monto": 59.71
+  },
+  {
+    "cliente": "Cliente085",
+    "monto": 125.6
+  },
+  {
+    "cliente": "Cliente159",
+    "monto": 385.96
+  },
+  {
+    "cliente": "Cliente184",
+    "monto": 141.58
+  },
+  {
+    "cliente": "Cliente184",
+    "monto": 296.65
+  },
+  {
+    "cliente": "Cliente195",
+    "monto": 123.38
+  },
+  {
+    "cliente": "Cliente088",
+    "monto": 223.99
+  },
+  {
+    "cliente": "Cliente141",
+    "monto": 162.01
+  },
+  {
+    "cliente": "Cliente180",
+    "monto": 23.37
+  },
+  {
+    "cliente": "Cliente012",
+    "monto": 53.6
+  },
+  {
+    "cliente": "Cliente036",
+    "monto": 413.48
+  },
+  {
+    "cliente": "Cliente185",
+    "monto": 53.71
+  },
+  {
+    "cliente": "Cliente028",
+    "monto": 141.33
+  },
+  {
+    "cliente": "Cliente051",
+    "monto": 199.22
+  },
+  {
+    "cliente": "Cliente101",
+    "monto": 93.29
+  },
+  {
+    "cliente": "Cliente118",
+    "monto": 96.91
+  },
+  {
+    "cliente": "Cliente184",
+    "monto": 33.69
+  },
+  {
+    "cliente": "Cliente194",
+    "monto": 53.54
+  },
+  {
+    "cliente": "Cliente012",
+    "monto": 328.76
+  },
+  {
+    "cliente": "Cliente151",
+    "monto": 221.57
+  },
+  {
+    "cliente": "Cliente116",
+    "monto": 28.78
+  },
+  {
+    "cliente": "Cliente151",
+    "monto": 135.42
+  },
+  {
+    "cliente": "Cliente002",
+    "monto": 120.45
+  },
+  {
+    "cliente": "Cliente189",
+    "monto": 170.99
+  },
+  {
+    "cliente": "Cliente111",
+    "monto": 32.39
+  },
+  {
+    "cliente": "Cliente124",
+    "monto": 11.96
+  },
+  {
+    "cliente": "Cliente200",
+    "monto": 159.82
+  },
+  {
+    "cliente": "Cliente045",
+    "monto": 79.82
+  },
+  {
+    "cliente": "Cliente033",
+    "monto": 45.8
+  },
+  {
+    "cliente": "Cliente100",
+    "monto": 8.89
+  },
+  {
+    "cliente": "Cliente154",
+    "monto": 160.88
+  },
+  {
+    "cliente": "Cliente130",
+    "monto": 87.08
+  },
+  {
+    "cliente": "Cliente156",
+    "monto": 99.24
+  },
+  {
+    "cliente": "Cliente196",
+    "monto": 96.61
+  }
+]
